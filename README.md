@@ -1,8 +1,11 @@
 Bill Splitting App
+
 Overview
+
 SplitIt is a simple and user-friendly React.js application designed to make splitting bills among friends effortless. The code provides a convenient way to calculate individual contributions based on shared expenses, ensuring everyone pays their fair share when going out.
 
 Features
+
 User-Friendly Interface: Intuitive web interface for a seamless user experience.
 
 Dynamic Updates: Real-time updates and dynamic calculations as you input expenses.
