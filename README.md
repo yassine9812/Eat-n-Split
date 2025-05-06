@@ -1,17 +1,38 @@
-Bill Splitting App
+# React Friends App 🎉
 
-Overview
+Manage your friendships and split bills effortlessly with this intuitive React application!
 
-SplitIt is a simple and user-friendly React.js application designed to make splitting bills among friends effortless. The code provides a convenient way to calculate individual contributions based on shared expenses, ensuring everyone pays their fair share when going out.
+## Features 🚀
 
-Features
+- **Friend Management**: Keep track of your friends with their names, profile images, and balances.
+- **Add New Friends**: Easily add new friends by entering their name and a profile image URL.
+- **Bill Splitting**: Select a friend to split bills with, helping you manage expenses with ease.
 
-User-Friendly Interface: Intuitive web interface for a seamless user experience.
+## Technologies Used 🛠️
 
-Dynamic Updates: Real-time updates and dynamic calculations as you input expenses.
+- **React**: Front-end library for building user interfaces.
+- **JavaScript (ES6+)**: Modern JavaScript syntax for enhanced development.
+- **HTML5 & CSS3**: Structuring and styling the app for a pleasing user experience.
 
-Customizable Inputs: Input your expenses and the number of people involved to get precise individual shares.
+## Installation 📥
 
-Fair Splitting Algorithm: Utilizes a fair splitting algorithm to distribute costs evenly among participants.
+1. **Clone the repository**: `git clone https://github.com/your-username/react-friends-app.git`
+2. **Navigate to the project directory**: `cd react-friends-app`
+3. **Install dependencies**: `npm install`
 
-Detailed Output: Provides a detailed breakdown of each person's contribution, making it easy to settle debts.
+## Usage 📱
+
+1. **Start the development server**: `npm start`
+2. **Open your browser**: Go to `http://localhost:3000` to view the app.
+
+## Screenshots 🖼️
+
+![App Screenshot](./screenshots/app.png)
+
+## Contributing 🤝
+
+Contributions are welcome! Fork the repository, make your changes, and create a pull request.
+
+## License 📄
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
